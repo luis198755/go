@@ -9,24 +9,36 @@
         "dimension": 63.70808678500986,
         "children": [
           {
-            "id": "25e65284df68838e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IF_Else.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e66a5b28da0b1348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcae7f457f1cc398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variadic Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1979dcb388f418be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slices.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switch.md",
+                "file": "Variadic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Switch.md",
+                "file": "Variadic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switch.md"
+                "file": "Variadic Functions.md"
               }
             }
           }
@@ -175,12 +187,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e66a5b28da0b1348",
+  "active": "dcae7f457f1cc398",
   "lastOpenFiles": [
-    "IF_Else.md",
+    "Slices.md",
     "Switch.md",
-    "Go.md",
+    "Multiple Return Values.md",
+    "Variadic Functions.md",
+    "Functions.md",
+    "Arrays.md",
+    "Range.md",
+    "Maps.md",
     "Variables.md",
+    "README.md",
+    "Go.md",
+    "IF_Else.md",
     "For.md",
     "Hello World.md",
     "Constants.md",
